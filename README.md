@@ -1,5 +1,7 @@
 # postgres-character-insensitivity
 
+> **[Leia em Portugues Brasileiro](README.pt-br.md)**
+
 PostgreSQL 18 setup with case-insensitive and accent-insensitive collation using ICU, running on Docker.
 
 ## Purpose
